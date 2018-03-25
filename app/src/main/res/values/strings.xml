@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Tour Guide App</string>
+
+    <string name="must_visited_title_1">Pyramids of Giza</string>
+    <string name="must_visited_title_2">Abu Simbel</string>
+    <string name="must_visited_title_3">Great Sphinx</string>
+    <string name="must_visited_title_4">Valley of the Kings and King Tutankhamen</string>
+
+    <string name="must_visited_description_1">As one of the oldest modern countries in existence, there are simply so many great places in Egypt it’s hard to make a top 10 list, but we did our best. With dreamy deserts, plentiful waterways, historical monuments, and tons of culture to boot, you just have to get there and see it for yourself.</string>
+    <string name="must_visited_description_2">You don’t go to Egypt without seeing the pyramids. In fact you will probably see them sooner than you think, poking above Cairo’s city skyline. The complex consists of the Great Pyramid of Giza, the smaller Pyramid of Khafre, the moderately-sized Pyramid of Menkaure and the Great Sphinx on the eastern side.</string>
+    <string name="must_visited_description_3">It is located in Nubia, southern Egypt on the west bank of the Nile. The temple complex was built under the reign of Ramesses II, who ruled in the 14th century B.C. Laborers carved the two structures directly into the cliffs, with a colossal façade of 20m tall statues of Ramesses II.</string>
+    <string name="must_visited_description_4">The Sphinx is part of the complex containing the Great Pyramids but deserves a listing in its own right. The statue of a reclining lion with a human head must be one of the most recognized monuments in the world. There is still much debate about its origins, and the mystery surrounding its origins makes a visit here even more enjoyable.</string>
+
+    <string name="hotels_title_1">The Nile Ritz-Carlton</string>
+    <string name="hotels_title_2">The Mena House Hotel</string>
+    <string name="hotels_title_3">Kempinski Hotel Soma Bay</string>
+    <string name="hotels_title_4">Kempinski Nile Hotel Garden City Cairo</string>
+
+    <string name="beautiful_towns_title_1">Old Town, Cairo</string>
+    <string name="beautiful_towns_title_2"> Siwa</string>
+    <string name="beautiful_towns_title_3">Aswan</string>
+    <string name="beautiful_towns_title_4">Al-Faiyum</string>
+    <string name="beautiful_towns_title_5">Wadi El-Natrun</string>
+
+    <string name="beautiful_towns_description_1">Although technically a city, but the old quarters of Cairo are too stunning not to include, with mosques and soaring minarets, ancient souks, Coptic churches and synagogues, and the huge fortified citadel. The extraordinary Islamic buildings of Cairo begin with the Mosque of Amr ibn al-As built in the year 641 CE. Historic Cairo is a UNESCO World Heritage Site and includes the amazing Mosques of Ibn Tulun and al-Hakim.</string>
+    <string name="beautiful_towns_description_2">Siwa is a desert oasis close to the Libyan border, a mirage-like place of palm trees and olive groves that suddenly emerge out of the sands. The mud-brick houses are home to around 20,000 Berber inhabitants, with their own distinctive culture as a result of the isolated location of the town.</string>
+    <string name="beautiful_towns_description_3">Once the ancient town of Swenett, Aswan was historically the southern outpost of the Egyptian lands. It sits on the Nile, the river that has been the lifeblood of Egypt for thousands of years. At Aswan you will still find traditional dhows and feluccas sailing along the river to the north.</string>
+    <string name="beautiful_towns_description_4">Faiyum is one of the oldest towns in Egypt, inhabited since Pharaonic times, and known to the Greeks as Crocodilopolis, as the locals would worship a sacred crocodile. The town itself is full of traditional souks and sites including the Hanging Mosque and the Qaitbay Mosque – curious rarities in Egypt and the Islamic world, as they were built without minarets.</string>
+    <string name="beautiful_towns_description_5">Wadi El-Natrun is far from a typical town; it has a collection of beautiful ancient Coptic Christian monastic sites gathered together in the desert between Cairo and Alexandria. In Christian history, Wadi El-Natrun is known as ‘Scetes’. In the 4th century, many Christians came to this desolate desert region to escape the corruption they saw in the cities of Egypt.</string>
+
+    <string name="hotels_description_1">Set in the heart of downtown, between the Nile and the iconic Tahrir square, experience Cairo like never before at The Nile Ritz-Carlton. Discover gracious spaces and enjoy exclusive views of the river Nile and the Egyptian Museum from the rooms and suites. The luxury guest room accommodations provide a private oasis where marble bathrooms and generous living space encourages guests to relax and unwind. The spacious hotel suites are designed for guests to spread out, entertain, and to be completely comfortable within superior surroundings.</string>
+    <string name="hotels_description_2">The Mena House is one of the most unique hotels in Cairo, with its own rich and colourful history. Surrounded by 40 acres of verdant green gardens, this palatial hotel is located in the shadows of the Great Pyramids of Giza in Cairo. The royal history of the hotel is reflected in luxurious interiors that are embellished with exquisite antiques, handcrafted furniture, original work of arts and magnificent antiques that are rarely found in luxury hotels.</string>
+    <string name="hotels_description_3">Kempinski Hotel Soma Bay is a striking resort destination on the Egyptian shores of the Red Sea, an idyllic leisure retreat blessed with a picturesque landscape of pools, waterfalls and lagoons, flowing down to an immaculate 400m sandy beach. Inspired by the mystique and nobility of the ancient Moorish fortresses, the ultimately luxurious hotel features 325 elegantly-appointed rooms and suites. </string>
+    <string name="hotels_description_4">In Cairo city where history, arts and luxury form the heart of the social scenes, Kempinski Nile Hotel Garden City dares to break the mold. Not only is it the first and the only luxury boutique hotel in Cairo located on the eastern bank of The Nile River to boast ultimate concepts of luxury on the Egyptian authentic lands, but also it blends European luxury and charm with the exotic bustle of the city. Kempinski Nile Hotel is where simple things are done beautifully.</string>
+
+    <string name="secrets_title_1">El Sawy Culture Wheel</string>
+    <string name="secrets_title_2">Khan el Khalili Bazaar</string>
+    <string name="secrets_title_3">The World’s Best Burger</string>
+    <string name="secrets_title_4">Islamic Cairo</string>
+
+    <string name="secrets_description_1">An all-purpose private culture center, The El Sawy Culture Wheel offers daily seminars, talks and performances in every discipline of the arts, from dance to music, even puppetry. The center was established in 2003 by Mohamed El-Sawy in honor of his father, the celebrated Egyptian writer Abdel Moneim El-Sawy.</string>
+    <string name="secrets_description_2">A stroll through Cairo’s most varied souk is a walk which engages all of the senses, with the smell of exotic spices wafting through the stalls and the intricate stained glass lamps casting a kaleidoscope of light onto the streets.</string>
+    <string name="secrets_description_3">Given this impressive title by TIME magazine, Lucille’s is a must-visit burger restaurant in the heart of Cairo. Famed for its succulent beef burgers and fresh, local ingredients, the establishment was founded by Lucille, who prides herself on the first-rate quality of her cuisine.</string>
+    <string name="secrets_description_4">slamic Cairo is an area in the center of the city that tells a compelling story of Egypt’s past, starting from its conquering by the Arab Muslims in 641. Where previously Alexandria was the country’s capital, the conquererses established their economic and political center instead in Cairo, building many impressive mosques including the notable Mosque of Ahmad Ibn Tulun. </string>
+
+    <string name="cat_1">MUST VISITED</string>
+    <string name="cat_2">HOTELS</string>
+    <string name="cat_3">TOWNS</string>
+    <string name="cat_4">SECRETS</string>
+
+    <string name="image_here">image here!</string>
+</resources>
